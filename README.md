@@ -153,7 +153,7 @@ This project helps in understanding:
 
 ## 👨‍💻 Author
 
-**Shubham Yadav**
+**Raj Gujjar**
 
 - GitHub: https://github.com/Shub148
 
